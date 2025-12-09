@@ -187,6 +187,9 @@ Incluye visualizaciones como:
 - Segmentadores dinámicos por **año**
 
 ---
+<img width="1394" height="784" alt="dashboard_ETL_adventureworks2022" src="https://github.com/user-attachments/assets/9512e462-48e5-431f-963f-3b5c1bbe01eb" />
+
+
 
 ## 🧑‍💻 Autor
 
