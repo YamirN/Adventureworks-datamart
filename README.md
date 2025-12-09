@@ -187,11 +187,10 @@ Incluye visualizaciones como:
 - Segmentadores dinámicos por **año**
 
 ---
-<img width="1394" height="784" alt="dashboard_ETL_adventureworks2022" src="https://github.com/user-attachments/assets/9512e462-48e5-431f-963f-3b5c1bbe01eb" />
-
-
-
 ## 🧑‍💻 Autor
 
 Proyecto desarrollado por _Yamir Alex_ como implementación profesional de
 un Data Mart con ETL en Go y visualización en Power BI.
+<img width="1395" height="782" alt="adventureworks-powerbi" src="https://github.com/user-attachments/assets/b197866b-1fa1-4ea1-85d8-dddaf6d02a29" />
+
+
