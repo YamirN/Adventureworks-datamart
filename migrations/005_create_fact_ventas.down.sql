@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS dbo.FACT_Ventas;

@@ -1,0 +1,13 @@
+CREATE TABLE dbo.DIM_Cliente (
+    ClienteKey INT IDENTITY (1, 1) PRIMARY KEY,
+    ClienteID INT NOT NULL,
+    PersonaID INT NOT NULL,
+    TiendaID INT NULL,
+    Nombre NVARCHAR (255) NOT NULL,
+    TipoCliente NVARCHAR (50) NOT NULL,
+    TipoPersona NVARCHAR (50) NOT NULL,
+    Ciudad NVARCHAR (255) NOT NULL,
+    Estado NVARCHAR (255) NOT NULL,
+    Pais NVARCHAR (255) NOT NULL,
+    fecha_carga DATETIME NOT NULL DEFAULT GETDATE ()
+);

@@ -1,0 +1,15 @@
+{
+  "origen": {
+    "server": "TU_SERVIDOR",
+    "database": "AdventureWorks2022",
+    "trusted_connection": true
+  },
+  "destino": {
+    "server": "TU_SERVIDOR",
+    "database": "AdventureWorks_DM",
+    "trusted_connection": true
+  },
+  "etl": {
+    "timeout_minutes": 10
+  }
+}
